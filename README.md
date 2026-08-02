@@ -30,7 +30,7 @@ bashforge/
 
 ## Learning Path
 
-- [-] Filesystem
+- [ ] Filesystem
 - [ ] Processes
 - [ ] Networking
 - [ ] Logs

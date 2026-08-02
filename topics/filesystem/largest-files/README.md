@@ -51,7 +51,7 @@ The challenge is complete when:
 
 ### What was the biggest challenge?
 
-To correctly check if input was given.
+Filter files only before disk usage check and to hide errors in output.
 
 ### What did I learn?
 
