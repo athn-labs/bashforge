@@ -9,5 +9,5 @@ if [ "$#" -eq 1 ]; then
     fi
 else
     echo "Usage: largest_files.sh <directory>"
-    exit
+    exit 1
 fi

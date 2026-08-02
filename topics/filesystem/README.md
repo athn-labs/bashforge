@@ -14,8 +14,8 @@ The goal is not only to learn Bash commands, but also to understand how administ
 
 ## Challenges
 
-- [ ] Largest Files
-- [ ] Old Files
+- [x] Largest Files
+- [x] Old Files
 - [ ] Empty Directories
 - [ ] Duplicate Files
 
