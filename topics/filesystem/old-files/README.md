@@ -24,7 +24,7 @@ The script should:
 
 Handle:
 
-- dmissing arguments
+- missing arguments
 - invalid directory
 - invalid number of days
 
