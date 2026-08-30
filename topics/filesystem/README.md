@@ -17,7 +17,7 @@ The goal is not only to learn Bash commands, but also to understand how administ
 - [x] Largest Files
 - [x] Old Files
 - [x] Empty Directories
-- [IP] Backup Directory
+- [x] Backup Directory
 
 ## Final Utility
 
