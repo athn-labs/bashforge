@@ -45,13 +45,17 @@ After completing this challenge you should understand:
 
 The challenge is complete when:
 
-- [ ] the script accepts a directory as a command-line argument
-- [ ] only empty directories are displayed
-- [ ] the search is performed recursively
-- [ ] invalid input is handled correctly
-- [ ] permission errors do not interrupt the output
-- [ ] the script has been tested on Ubuntu Server
-- [ ] the solution has passed code review
-- [ ] changes have been committed to Git
+- [x] the script accepts a directory as a command-line argument
+- [x] only empty directories are displayed
+- [x] the search is performed recursively
+- [x] invalid input is handled correctly
+- [x] permission errors do not interrupt the output
+- [x] the script has been tested on Ubuntu Server
+- [x] the solution has passed code review
+- [x] changes have been committed to Git
 
 ## Reflection
+
+### What would I improve?    
+
+Using man to search for command options
