@@ -71,5 +71,5 @@ The challenge is complete when:
 - [x] invalid input is handled correctly
 - [x] permission errors are handled correctly
 - [x] the script has been tested on Ubuntu Server
-- [ ] the solution has passed code review
-- [ ] changes have been committed to Git
+- [x] the solution has passed code review
+- [x] changes have been committed to Git
